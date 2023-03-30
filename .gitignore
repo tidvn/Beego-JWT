@@ -1,0 +1,13 @@
+.vscode
+.vscode/
+.vscode/*
+vendor
+vendor/
+vendor/*
+.exe
+.dll
+.so
+.dylib
+.test
+.out
+.glide/
